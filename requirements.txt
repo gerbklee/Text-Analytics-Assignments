@@ -1,0 +1,7 @@
+Dependencies:
+PyPDF2
+pdfplumber
+Panda
+difflib
+re
+time
