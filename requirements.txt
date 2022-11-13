@@ -1,7 +1,0 @@
-Dependencies:
-PyPDF2
-Plumber
-Panda
-difflib
-re
-time
